@@ -100,3 +100,21 @@ Given the low purchase conversion rate, a **value-based advertising revenue mode
 3. Place `game_data.xlsx` in the project directory
 4. Run `GamingBehaviour_EDA.ipynb` in Jupyter Notebook or JupyterLab
 5. Open `.pbix` files in Power BI Desktop to explore the dashboards
+
+
+
+## Dashboard Preview
+
+![Logo](images/Lootmetrics%20logo.png)
+
+![Demographics](images/Demographics.png)
+
+![Achievement Hunters](images/Achievement%20Hunters.png)
+
+![Hardcore Achievers](images/Hardcore%20Achievers%20.png)
+
+![Persona Ads](images/Persona_ads.png)
+
+![General Ads](images/general_Ads.png)
+
+![Mobile](images/Mobile.png)
